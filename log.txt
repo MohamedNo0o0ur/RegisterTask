@@ -1,0 +1,5 @@
+  Expected string length 51 but was 59. Strings differ at index 4.
+  Expected: "the email field must contain a valid email address."
+  But was:  "the password field must be at least 6 characters in length."
+  ---------------^
+
